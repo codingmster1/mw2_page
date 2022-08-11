@@ -2,38 +2,40 @@
 
 .header1
 {
-    
+    background-color:whitesmoke;
     text-decoration: underline;
     text-align: center;
 }
 
 .header2
 {
-    background-color:lavender;
+    background-color:whitesmoke;
     text-decoration: underline;
     text-align:center;
 }
 
 .header3
 {
-    background-color:lavender;
+    background-color:whitesmoke;
     text-decoration:underline;
+    text-align:center;
 }
 
 .header4
 {
-    background-color:lavender;
+    text-align:center;
+    background-color:whitesmoke;
     text-decoration:underline;
 }
 .header5
 {
-    background-color:lavender;
+    background-color:whitesmoke;
     text-decoration:underline;
 }
 
 .header6
 {
-    background-color:lavender;
+    background-color:whitesmoke;
     text-decoration:underline;
 }
 .image1
