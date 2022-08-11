@@ -2,14 +2,34 @@
 
 .header1
 {
+    text-decoration: underline;
     text-align: center;
 }
 
 .header2
 {
+    text-decoration: underline;
     text-align:center;
 }
 
+.header3
+{
+    text-decoration:underline;
+}
+
+.header4
+{
+    text-decoration:underline;
+}
+.header5
+{
+    text-decoration:underline;
+}
+
+.header6
+{
+    text-decoration:underline;
+}
 .image1
 {
   margin-left:auto;
