@@ -35,6 +35,7 @@
 
 .header6
 {
+    text-align:center;
     background-color:whitesmoke;
     text-decoration:underline;
 }
@@ -112,6 +113,20 @@ max-width:50%;
 
 .header7
 {
+    background-color:whitesmoke;
     text-decoration:underline;
+    text-align:center;
+}
+
+.header8
+{
+    background-color:lavender;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.finalheader
+{
+    background-color:lavender;
     text-align:center;
 }
