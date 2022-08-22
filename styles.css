@@ -90,7 +90,11 @@
 
 .paragraph
 {
-    text-decoration:underline;
+    font-size: 18px;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #EEEEEE;
     text-align:center;
 }
 
@@ -103,7 +107,11 @@
 
 .paragraph2
 {
-    text-decoration: underline;
+    font-size: 18px;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #EEEEEE;
     text-align:center;
 }
 
@@ -124,6 +132,11 @@ max-width:50%;
 
 .paragraph3
 {
+    font-size: 18px;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #EEEEEE;
     text-decoration:underline;
     text-align:center;
 }
