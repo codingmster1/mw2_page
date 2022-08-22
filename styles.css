@@ -1,3 +1,7 @@
+*
+{
+    background-color: black;
+}
 
 
 .header1
@@ -13,8 +17,8 @@
 
 .header2
 {
-    background-color:black;
     text-decoration: underline;
+    background-color:black;
     text-align:center;
     padding: 20px;
     margin-bottom: 10px;
@@ -24,8 +28,8 @@
 
 .header3
 {
+    text-decoration: underline;
     background-color:black;
-    text-decoration:underline;
     text-align:center;
     padding: 15px;
     margin-bottom: 10px;
@@ -35,9 +39,9 @@
 
 .header4
 {
+    text-decoration: underline;
     background-color:black;
     text-align:center;
-    text-decoration:underline;
     padding: 15px;
     margin-bottom: 10px;
     color: #EEEEEE;
@@ -45,8 +49,8 @@
 }
 .header5
 {
+    text-decoration: underline;
     background-color: black;
-    text-decoration:underline;
     padding: 15px;
     margin-bottom: 10px;
     color: #EEEEEE;
@@ -55,9 +59,9 @@
 
 .header6
 {
+    text-decoration: underline;
     text-align:center;
     background-color:black;
-    text-decoration:underline;
     padding: 15px;
     margin-bottom: 10px;
     color: #EEEEEE;
@@ -137,7 +141,6 @@ max-width:50%;
     padding: 10px;
     margin-bottom: 5px;
     color: #EEEEEE;
-    text-decoration:underline;
     text-align:center;
 }
 
@@ -157,7 +160,6 @@ li{
     margin-bottom: 5px;
     color: #EEEEEE;
     text-align:center;
-    text-decoration:underline;
 }
 
 .image3
